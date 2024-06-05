@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: efcd16d71831fcc438c833b1b0fda079
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Artist_1
+    second: {fileID: 2100000, guid: bc938e906c32d234691f3ee9bfe2cff5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Artist_2
+    second: {fileID: 2100000, guid: 34dec928a759bc248a8fdf8db8b589d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Biography_1
+    second: {fileID: 2100000, guid: 4eae7865096f95443ab1f136d59490b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Biography_2
+    second: {fileID: 2100000, guid: 4eae7865096f95443ab1f136d59490b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Black_Canva
+    second: {fileID: 2100000, guid: 443c2f8786524444f842236811dd8157, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Black_Metal
+    second: {fileID: 2100000, guid: 620b097f98339874daf7fb923026ada4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Canva_1
+    second: {fileID: 2100000, guid: 3099a7710564e3a4bb138f1ed37984b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Canva_2
+    second: {fileID: 2100000, guid: 82ba9299c92ff97429c65d25aa406f88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Canva_3
+    second: {fileID: 2100000, guid: db79db6fbb0b2b84fbf8770bcc229325, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Canva_4
+    second: {fileID: 2100000, guid: f399011c00e56ce42adfeb986b3ff85f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Canva_5
+    second: {fileID: 2100000, guid: 361881fb33b31ca4a908126095a6a31d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Canva_6
+    second: {fileID: 2100000, guid: a81948663fd72c541b0a316834a0154e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Canva_7
+    second: {fileID: 2100000, guid: 2f657a6b658a98e4090a051dce495a56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Canvas_1
+    second: {fileID: 2100000, guid: 9bd4ea60f0ed7c7489c79188f94d355d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Canvas_2
+    second: {fileID: 2100000, guid: 181b676a97245364c9cb7fac6eaa88e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Frame_Canva
+    second: {fileID: 2100000, guid: 0457f34e7cf391c4ca1bfc837f427c7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Info_1
+    second: {fileID: 2100000, guid: 32075d24a1d5ddf44b6f0a7ae4082257, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Info_2
+    second: {fileID: 2100000, guid: 32075d24a1d5ddf44b6f0a7ae4082257, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Info_3
+    second: {fileID: 2100000, guid: 32075d24a1d5ddf44b6f0a7ae4082257, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Info_4
+    second: {fileID: 2100000, guid: 32075d24a1d5ddf44b6f0a7ae4082257, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Label_1
+    second: {fileID: 2100000, guid: 32075d24a1d5ddf44b6f0a7ae4082257, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Label_2
+    second: {fileID: 2100000, guid: 32075d24a1d5ddf44b6f0a7ae4082257, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Label_3
+    second: {fileID: 2100000, guid: 32075d24a1d5ddf44b6f0a7ae4082257, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Label_4
+    second: {fileID: 2100000, guid: 32075d24a1d5ddf44b6f0a7ae4082257, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Label_5
+    second: {fileID: 2100000, guid: 32075d24a1d5ddf44b6f0a7ae4082257, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Label_6
+    second: {fileID: 2100000, guid: 32075d24a1d5ddf44b6f0a7ae4082257, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Label_7
+    second: {fileID: 2100000, guid: 32075d24a1d5ddf44b6f0a7ae4082257, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Metal
+    second: {fileID: 2100000, guid: 620b097f98339874daf7fb923026ada4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Panel
+    second: {fileID: 2100000, guid: a5e40696f63ea424c8cffc404d617033, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Photo_1
+    second: {fileID: 2100000, guid: 24df4dcf19de57849a289dc4c3b4e087, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Photo_2
+    second: {fileID: 2100000, guid: 42efbe4f6ef7ace4987eba4117c065d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Photo_3
+    second: {fileID: 2100000, guid: ac0154403c8365c448ad982fa6335054, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Photo_4
+    second: {fileID: 2100000, guid: 0be596db4d008fc4d87e495700cba849, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Photo_5
+    second: {fileID: 2100000, guid: cf6b63caf90855640859bedbf6d26e0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Photo_6
+    second: {fileID: 2100000, guid: 04150c02254ea4f45ae11c959d4f2818, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Photo_7
+    second: {fileID: 2100000, guid: e2c5cdfee69969243a4444956e62d6f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Wall_Mural
+    second: {fileID: 2100000, guid: b70e4f12da169304eb3f1615ad8106c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_name
+    second: {fileID: 2100000, guid: 63438613cd17b49429348eed80287876, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
