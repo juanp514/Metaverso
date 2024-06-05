@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Content/ExhibitionParallaxInteractive/Scenes/ExhibitionParallaxInteractive.unity
+    guid: f1e7d737719269c449c256ed94feaa8b
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 022d681a31adddd488c49ed00c38295c, type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: 4806aad13697a994d9612804dbecc72b, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 9e3a6756be2c6454780556304d7560c2, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 61aad490f616e534f9f73ee006a329a9, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: ae8b78100392bdb44aade4777ec8ab36, type: 2}
