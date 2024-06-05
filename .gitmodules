@@ -1,0 +1,6 @@
+[submodule "Assets/XennialModules/XR"]
+	path = Assets/XennialModules/XR
+	url = http://186.28.57.76:3000/Xennial/XR.git
+[submodule "Assets/XennialModules/Multiplayer"]
+	path = Assets/XennialModules/Multiplayer
+	url = http://186.28.57.76:3000/Xennial/Multiplayer.git
