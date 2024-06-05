@@ -1,0 +1,27 @@
+{
+    "name": "Xennial.XR",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:bfd16a72bda7f05458c6fc32677c680f",
+        "GUID:e40ba710768534012815d3193fa296cb",
+        "GUID:8efef0e48627b4af5a28950b21575514",
+        "GUID:fe685ec1767f73d42b749ea8045bfe43",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.xr.meta-openxr",
+            "expression": "1.0.1",
+            "define": "META_OPENXR_PRESENT"
+        }
+    ],
+    "noEngineReferences": false
+}

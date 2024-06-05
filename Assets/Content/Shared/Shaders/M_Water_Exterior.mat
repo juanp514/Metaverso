@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7392245249244915378
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 7
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_Water_Exterior
+  m_Shader: {fileID: -6465566751694194690, guid: b32f2c9a07bbcd24db8d8f6d527a1b48, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _GradientNoise:
+        m_Texture: {fileID: 2800000, guid: 302fb143e6c03164e9a2973cf0eed477, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainNormal:
+        m_Texture: {fileID: 2800000, guid: 784f33c7c58f0fd4991a39f48bdb7780, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SecondNormal:
+        m_Texture: {fileID: 2800000, guid: 6cf88079b967b6742a3f2fdfc3c166cc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WaterSpecificColors:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Depth: 3
+    - _Displacement: 0.1
+    - _Distor: 0.1
+    - _Metallnes: 0
+    - _NormalStrength: 0.15
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _Smoothness: 0.882
+    - _Speed: 1.8
+    - _Strength: 1
+    - _Tile_MainNormal: 0.4
+    - _Tile_Second_Normal: 0.2
+    m_Colors:
+    - _DeepWaterColor: {r: 0.3679245, g: 0.3679245, b: 0.3679245, a: 1}
+    - _ShallowWaterColor: {r: 0.18709503, g: 0.21698111, b: 0.21698111, a: 1}
+    - _Speed: {r: -0.06, g: 0.06, b: 0, a: 0}
+    - _SpeedV2: {r: -1.99, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []
